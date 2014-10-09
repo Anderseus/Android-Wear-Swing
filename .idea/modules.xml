@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AWS.iml" filepath="$PROJECT_DIR$/AWS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android-Wear-Swing.iml" filepath="$PROJECT_DIR$/Android-Wear-Swing.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
